@@ -35,6 +35,6 @@ function App() {
 }
 
 export default App;
-
+{/* Define routes for other pages here */}
 
 {/* Define routes for other pages here */}
